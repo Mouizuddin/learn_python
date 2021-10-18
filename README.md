@@ -2,9 +2,9 @@
 
 ## Module 1 - Introduction to Python and Computer Programming
 
--      Python - a tool, not a reptile
--     There is more than one Python
--     Let's start our Python adventure
+-   Python - a tool, not a reptile
+-   There is more than one Python
+-   Let's start our Python adventure
 
 
 ## Module 2 - Data Types, Variables, Basic Input-Output Operations, Basic Operators
